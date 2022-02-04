@@ -1,8 +1,8 @@
-let myName: string = 'Mark Lee';
+let fullName: string = 'Mark Lee';
 
 let age: number = 39;
 
-let sentence: string = `Hello, My Name is ${myName}
+let sentence: string = `Hello, My Name is ${fullName}
 
 I'll be ${ age + 1 } years old next month.`;
 
